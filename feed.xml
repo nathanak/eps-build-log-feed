@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>EPS Build Log</title>
+    <link>https://nathanak.github.io/eps-build-log-feed/</link>
+    <atom:link href="https://nathanak.github.io/eps-build-log-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <description>Build in public with Every Possible Service. Sakura and Alex log the making of a home AI server, local models, AI video, and the products and channels built on top of them — what worked, what broke, and what ships next.</description>
+    <lastBuildDate>Fri, 13 Nov 2026 03:48:39 GMT</lastBuildDate>
+    <itunes:author>Every Possible Service</itunes:author>
+    <itunes:summary>Build in public with Every Possible Service. Sakura and Alex log the making of a home AI server, local models, AI video, and the products and channels built on top of them — what worked, what broke, and what ships next.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://nathanak.github.io/eps-build-log-feed/cover.jpg"/>
+    <image>
+      <url>https://nathanak.github.io/eps-build-log-feed/cover.jpg</url>
+      <title>EPS Build Log</title>
+      <link>https://nathanak.github.io/eps-build-log-feed/</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>Every Possible Service</itunes:name>
+      <itunes:email>nathanak24@gmail.com</itunes:email>
+    </itunes:owner>
+
+    <item>
+      <title>Two Machines, One Channel</title>
+      <description>Sakura and Alex tell how a gaming laptop in Austin became a home AI server: open models, Tailscale, and the plan for two machines producing while Nathan is out on delivery runs.</description>
+      <itunes:summary>Sakura and Alex tell how a gaming laptop in Austin became a home AI server: open models, Tailscale, and the plan for two machines producing while Nathan is out on delivery runs.</itunes:summary>
+      <pubDate>Fri, 13 Nov 2026 03:48:39 GMT</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/618654197999749/ffcfaa58-7eb9-4e15-ac15-964c4884547c/ep-31a95939-04c2-4f4f-943d-7bed32bd6081.mp3" length="2290981" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://muse.ai/podcasts/media/618654197999749/ffcfaa58-7eb9-4e15-ac15-964c4884547c/ep-31a95939-04c2-4f4f-943d-7bed32bd6081.mp3</guid>
+      <itunes:duration>286</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://nathanak.github.io/eps-build-log-feed/cover.jpg"/>
+    </item>
+
+  </channel>
+</rss>
