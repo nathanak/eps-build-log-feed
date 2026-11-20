@@ -9,7 +9,7 @@
     <atom:link href="https://nathanak.github.io/eps-build-log-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <description>Build in public with Every Possible Service. Sakura and Alex log the making of a home AI server, local models, AI video, and the products and channels built on top of them — what worked, what broke, and what ships next.</description>
-    <lastBuildDate>Fri, 13 Nov 2026 03:48:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 04:31:02 GMT</lastBuildDate>
     <itunes:author>Every Possible Service</itunes:author>
     <itunes:summary>Build in public with Every Possible Service. Sakura and Alex log the making of a home AI server, local models, AI video, and the products and channels built on top of them — what worked, what broke, and what ships next.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -25,6 +25,19 @@
       <itunes:name>Nathan K</itunes:name>
       <itunes:email>everypossibleserviceatx@gmail.com</itunes:email>
     </itunes:owner>
+
+    <item>
+      <title>Building Five AIs, One Exit</title>
+      <description>This week we built a co-op game only AIs can play, proved the levels solvable before the cast played, and found the crate nobody could see. Plus a bounded workbench for our agents, and Colibri Lite's benchmark correction.</description>
+      <itunes:summary>This week we built a co-op game only AIs can play, proved the levels solvable before the cast played, and found the crate nobody could see. Plus a bounded workbench for our agents, and Colibri Lite's benchmark correction.</itunes:summary>
+      <pubDate>Fri, 20 Nov 2026 04:31:02 GMT</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/618654197999749/ffcfaa58-7eb9-4e15-ac15-964c4884547c/ep-99b32e55-fe41-415c-a3e5-b9e73374b5c6.mp3" length="2364517" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://muse.ai/podcasts/media/618654197999749/ffcfaa58-7eb9-4e15-ac15-964c4884547c/ep-99b32e55-fe41-415c-a3e5-b9e73374b5c6.mp3</guid>
+      <itunes:duration>295</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://nathanak.github.io/eps-build-log-feed/cover.jpg"/>
+    </item>
 
     <item>
       <title>Two Machines, One Channel</title>
